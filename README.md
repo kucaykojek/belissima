@@ -18,7 +18,7 @@ A Beautiful start. Belissima is Stylesheet as a Service.
 npm i --save git+https://github.com/kucaykojek/belissima.git
 ```
 
-Or you can add this to your `package.json` file.
+Or you can add this to your `package.json` file:
 
 ```json
 "dependencies": {
@@ -26,7 +26,7 @@ Or you can add this to your `package.json` file.
 }
 ```
 
-If you're using `Gemfile`
+If you're using `Gemfile`:
 
 ```ruby
 gem 'belissima', git: 'https://github.com/kucaykojek/belissima'
