@@ -2,6 +2,7 @@
   "name": "belissima",
   "version": "1.0.0",
   "description": "A beautiful start",
+  "main": "styles.scss",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kucaykojek/belissima.git"
